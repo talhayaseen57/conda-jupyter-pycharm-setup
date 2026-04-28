@@ -346,6 +346,6 @@ Feel free to open issues or pull requests for additional tips, OS-specific instr
 
 ## 📄 License
 
-MIT — free to use, share, and modify.
+[MIT License](/LICENSE) — free to use, share, and modify.
 
 ---
